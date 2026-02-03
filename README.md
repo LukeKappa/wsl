@@ -1,20 +1,20 @@
 # WSL Manager for Raycast
 
-Manage your Windows Subsystem for Linux (WSL) distributions and projects seamlessy from Raycast. 
+Manage your Windows Subsystem for Linux (WSL) distributions and projects seamlessy from Raycast.
 
 ## Features
 
-### 🐧 Distro Management (`list-distros`)
+### Distro Management (`list-distros`)
 View and control all your installed WSL distributions in one place.
 - **Start/Stop**: Silently start distros in the background or terminate them to free up resources.
 - **Install/Uninstall**: Browse the online registry to install new distros or remove old ones.
-- **Launch Terminal**: specific terminal windows for any running distro.
+- **Launch Terminal**: Launch specific terminal windows for any running distro.
 
-### 📂 Smart Project Opener (`open-project`)
+### Smart Project Opener (`open-project`)
 Instantly find and open your projects across **all** your active distributions.
 - **Multi-Distro Scanning**: Automatically detects projects in `~/` across Ubuntu, Debian, CachyOS, and more.
 - **Universal Editor Support**: Opens projects in **VS Code**, **Cursor**, **Sublime Text**, or any editor you prefer.
-- **Zero Config**: intelligently detects your installed editors and just works.
+- **Zero Config**: Intelligently detects your installed editors and just works.
 
 ## Installation
 
